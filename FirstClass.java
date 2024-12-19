@@ -30,7 +30,9 @@ public class FirstClass {
 
         //   System.out.println(ll.remove(1));
 
-        //   System.out.println(ll.contains(1));
+//           System.out.println(ll.contains(1));
+
+//        System.out.println(ll.indexOf(2));
 
         //   System.out.println(ll.size());
 
@@ -43,14 +45,14 @@ public class FirstClass {
 //        }
 
 
-        Iterator obj = ll.iterator();
-        while (obj.hasNext()) { // after element present or not (element nanter element present aahe ka nahi).
-            System.out.println(obj.next());//next element la push karto
+     //   Iterator obj = ll.iterator();
+     //   while (obj.hasNext()) { // after element present or not (element nanter element present aahe ka nahi).
+      //      System.out.println(obj.next());//next element la push karto
 
             //  System.out.println(ll);
         }
     }
-}
+
 
 
 

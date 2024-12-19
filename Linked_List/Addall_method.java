@@ -14,24 +14,28 @@ public class Addall_method {
 
         System.out.println(list);
 
-        LinkedList new_list = new LinkedList();
+        System.out.println(list.indexOf(100));
 
-        System.out.println(list);
+//        LinkedList new_list = new LinkedList();
+//
+//        System.out.println(list);
+//
+//        new_list.addAll(list);
+//
+//        new_list.removeAll(list);
+//
+//        new_list.addFirst(12);
+//
+//        new_list.addAll(list);
+//
+//        new_list.addLast("tiger");
 
-        new_list.addAll(list);
-
-        new_list.removeAll(list);
-
-        new_list.addFirst(12);
-
-        new_list.addAll(list);
-
-        new_list.addLast("tiger");
 
 
 
 
-        System.out.println(new_list);
+
+      //  System.out.println(new_list);
 
 
     }
